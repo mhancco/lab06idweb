@@ -1,0 +1,7 @@
+[
+  { "id": 1, "nombre": "Introduccion al Desarrollo Web", "codigo": "IS301", "creditos": 4 },
+  { "id": 2, "nombre": "Algoritmos y Estructuras de Datos", "codigo": "IS302", "creditos": 4 },
+  { "id": 3, "nombre": "Redes y Comunicacion de Datos", "codigo": "IS303", "creditos": 3 },
+  { "id": 4, "nombre": "Programacion de Sistemas", "codigo": "IS304", "creditos": 3 },
+  { "id": 5, "nombre": "Ingles Tecnico", "codigo": "IS305", "creditos": 2 }
+]

@@ -1,0 +1,17 @@
+{
+  "name": "lab06",
+  "version": "1.0.0",
+  "description": "API RESTful de cursos con Express - Laboratorio 06 IDWeb",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
